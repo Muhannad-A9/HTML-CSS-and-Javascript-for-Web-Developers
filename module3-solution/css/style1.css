@@ -1,0 +1,51 @@
+ 
+#list1 
+{ 
+	margin: 0px 0px 0px 0px;
+	 
+
+}
+ 
+hr
+{
+	color: gray;
+	margin: 0px 0px 0px 0px;
+}
+ 
+h1{
+	font-family: Apple Chancery, cursive;
+	margin-bottom: 15px;
+	 
+}
+.ptext{	  
+    font-family: serif;
+    font-size: 14px;
+    color: black; 
+    padding: 5px;
+    clear: both;
+    
+}
+ 
+.row
+{
+	width:100%;
+}
+.divtitle
+{
+     
+	 
+ 	font-family: Comic Sans MS ;
+ 	font-size: 24px;
+    color: black;
+   
+   	clear: both;
+   	padding: 10px;
+   	 
+    
+}
+.divbox{
+	
+	background-color: gray; 
+	padding: 1px; 
+    margin: 15px;
+}
